@@ -1,3 +1,7 @@
+# Ajay Gill
+# MIS 6900 - Summer 2023
+# 25 May 2023
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -35,3 +39,9 @@ housing_regression_df.info()
 
 housing_class_df.to_csv("./data/kc_house_data_classification.csv", index=False)
 housing_regression_df.to_csv("./data/kc_house_data_regression.csv", index=False)
+
+
+# EDA using pandas
+from pandas_profiling import ProfileReport
+profile = ProfileReport(train_df, title="Pandas Profiling Report")
+profile.to_file("output/pandas_profiling_report.html")
