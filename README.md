@@ -59,9 +59,7 @@ Here's the folder structure that gets created by `cookiecutter-datascience-simpl
 Documentation
 --------------
 
-In this very simple project structure template, we've just included a markdown file with some typical
-section headings to use for project notes. Expand as desired. Later in the semester we will learn how to
-use Sphinx with restructuredText to write and generate documentation.
+I created some models for my first homework assignment. Please refer to the main notebook which is titled "data_prep_and_models.ipynb" since this has all of my work. You will find the data in the "data" folder. Enjoy!
 
 
 
