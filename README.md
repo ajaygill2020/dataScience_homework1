@@ -1,4 +1,4 @@
-# homework1
+# homework1 project
 
 Information on using this cookiecutter
 
@@ -62,6 +62,8 @@ Documentation
 In this very simple project structure template, we've just included a markdown file with some typical
 section headings to use for project notes. Expand as desired. Later in the semester we will learn how to
 use Sphinx with restructuredText to write and generate documentation.
+
+
 
 
 
