@@ -1,6 +1,6 @@
 # homework1 project
 
-Information on using this cookiecutter
+This homework assignment explores some models for sample data in the "data" folder. 
 
 Development workflows
 =======================
@@ -59,7 +59,7 @@ Here's the folder structure that gets created by `cookiecutter-datascience-simpl
 Documentation
 --------------
 
-I created some models for my first homework assignment. Please refer to the main notebook which is titled "data_prep_and_models.ipynb" since this has all of my work. You will find the data in the "data" folder. Enjoy!
+I created some models for my first homework assignment. Please refer to the main notebook which is titled "gill_homework_one" since this has all of my work. You will find the data in the "data" folder. 
 
 
 
