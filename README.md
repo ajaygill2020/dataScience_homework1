@@ -1,7 +1,5 @@
 # homework1 project
 
-This homework assignment explores some models for sample data in the "data" folder. 
-
 Development workflows
 =======================
 
@@ -60,6 +58,8 @@ Documentation
 --------------
 
 I created some models for my first homework assignment. Please refer to the main notebook which is titled "gill_homework_one" since this has all of my work. You will find the data in the "data" folder. 
+
+I explored the following models: L1, L2, Null model for the data csv files in the "data" folder. 
 
 
 
